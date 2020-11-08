@@ -1,0 +1,43 @@
+#pg00 {
+    background-image: url(image/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.word{
+    background-color: white;
+    opacity: 0.8;
+    padding: 10px;
+    line-height: 30px;
+}
+#pg02{
+    background-image: url(image/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 20px;
+}
+#pg03{
+    background-image: url(image/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 20px;
+}
+#youtube{
+    margin: 10px;
+    position: relative;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+}
+#youtube iframe{
+    position: absolute;
+        top: 0;
+        left: 0; 
+        width: 100%;
+        height: 100%;
+}
+.img img{
+    width: 500px;
+}
